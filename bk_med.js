@@ -5,7 +5,7 @@
 setTimeout(function() {
     var i, s, ss = [
         'https://cdnjs.cloudflare.com/ajax/libs/findAndReplaceDOMText/0.4.6/findAndReplaceDOMText.min.js',
-        'https://tefeari.github.io/ColorBookmarklet/hw_dark.js'
+        'https://tefeari.github.io/ColorBookmarklet/hw_med.js'
     ];
     for (i = 0; i != ss.length; i++) {
         s = document.createElement('script');
