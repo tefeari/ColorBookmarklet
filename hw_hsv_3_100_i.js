@@ -1,4 +1,4 @@
-fetch('https://tefeari.github.io/ColorBookmarklet/class_round_45_100.json').then(function(response) {
+fetch('https://tefeari.github.io/ColorBookmarklet/class_round_3_100_black.json').then(function(response) {
     response.json().then(function(result) {
         var words = document.body.textContent.split(/[^a-zA-Z]+/g);
         var doneWords = {};
